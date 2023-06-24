@@ -1,0 +1,6 @@
+1-Блинов-Блин-Блинович-admin-1-admin
+2-Блинов-Блин-Блинович-storage-1-storage
+3-Блинов-Блин-Блинович-supplier-1-supplier
+4-Блинов-Блин-Блинович-accountant-1-accountant
+5-Блинов-Блин-Блинович-chef-1-chef
+6-Блинов-Блин-Блинович-officiant-1-officiant
